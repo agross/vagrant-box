@@ -1,5 +1,5 @@
 set :application, 'my_app_name'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :repo_url, 'https://github.com/agross/vagrant-box.git'
 
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
 
